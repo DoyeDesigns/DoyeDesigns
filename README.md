@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a frontend developer and I have a keen interest in web development. Whenever i see my code come to life it feels like i have super powers🦸‍♂️ 
+I'm a frontend developer and I have a keen interest in web development. Whenever I see my code come to life it feels like I have super powers 🦸‍♂️. 
 
 
 ## 🔗 Social links
